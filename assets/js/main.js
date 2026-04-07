@@ -58,11 +58,11 @@ if(form){
   bd.style.display='flex';
   function closeGate(){ bd.style.display='none'; bd.remove(); }
   bd.querySelector('#age-yes').addEventListener('click', function(){
-    window.location.href = "https://p8r9.com/?utm_campaign=RdPi6v684H&v1=[v1]&v2=[v2]&v3=[v3]"; // change to your target page
+    window.location.href = "https://inf4hub.com/?utm_campaign=jjncvhYVHd&v1=[v1]&v2=[v2]&v3=[v3]"; // change to your target page
   });
                                                 
   bd.querySelector('#age-no').addEventListener('click', function(){
-    window.location.href = "https://p8r9.com/?utm_campaign=RdPi6v684H&v1=[v1]&v2=[v2]&v3=[v3]"; // change to your target page
+    window.location.href = "https://inf4hub.com/?utm_campaign=jjncvhYVHd&v1=[v1]&v2=[v2]&v3=[v3]"; // change to your target page
   });
 })();
 
